@@ -1,0 +1,44 @@
+.block{
+    width: 80%;
+    height: 200px
+    
+}
+
+.child{
+    width : 80%;
+
+	height : 200px;
+
+	background-color: rgb(92,230,92);
+
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+.ild{
+    position: absolute;
+    left: 140px; 
+    margin-top: -75px;
+    background-color: transparent; 
+    border: 2px solid #000; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: #000;
+    cursor: pointer; 
+}
+
+.detail{
+    position: absolute;
+    left:140px;
+    margin-top: 75px;
+    
+}
+
+.name{
+    position: absolute;
+    left: 140px;
+    font-size: 20px;
+
+}
